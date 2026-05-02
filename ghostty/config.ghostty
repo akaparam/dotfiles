@@ -1,4 +1,3 @@
-theme = Neon
+theme = param-dark
 mouse-hide-while-typing = true
-keybind = global:super+backquote=toggle_quick_terminal
 quick-terminal-position = bottom

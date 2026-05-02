@@ -1,0 +1,48 @@
+
+# General
+background = #0a0e1a
+foreground = #00cf00
+
+selection-background = #1e2d3d
+selection-foreground = #00ff41
+
+# Background Opacity
+background-opacity = 0.7
+background-opacity-cells = true
+background-blur = false
+
+# Cursor
+cursor-color = #00ff41
+cursor-text = #0a0e1a
+cursor-opacity = 1.0
+cursor-style = block
+cursor-style-blink = true
+
+# Standard Colors
+palette = 0=#0a0e1a
+palette = 1=#ff6b6b
+palette = 2=#00ff41
+palette = 3=#e6c07b
+palette = 4=#61afef
+palette = 5=#d19a66
+palette = 6=#56b6c2
+palette = 7=#c9d1d9
+
+# Bright Colors
+palette = 8=#4a6741
+palette = 9=#e06c75
+palette = 10=#2ea043
+palette = 11=#f0d58c
+palette = 12=#7cc7ff
+palette = 13=#ffb86c
+palette = 14=#6fd7e3
+palette = 15=#ffffff
+
+# Terminal Search
+search-background = #e6c07b
+search-foreground = #0a0e1a
+search-selected-background = #00ff41
+search-selected-foreground = #0a0e1a
+
+# Force dark mode
+window-theme = dark
